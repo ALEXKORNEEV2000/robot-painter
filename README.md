@@ -1,7 +1,7 @@
 # ROBOT PAINTER
 Робот рисует квадрат
 
-*Код*
+**Код**
 
 ```C++
 #include <IRremote.hpp>
@@ -78,7 +78,7 @@ void loop(){
 }
 ```
 
-*Процесс создания квадрата**
+*Процесс создания квадрата*
 
 https://github.com/ALEXKORNEEV2000/robot-painter/assets/85906021/edf3484e-9a91-4557-be06-2ebb36a1e3ab
 
